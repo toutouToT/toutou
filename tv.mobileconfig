@@ -24,17 +24,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.D2B8F0ED-B819-4B41-B885-9BDE30811B2E</string>
+			<string>com.apple.wifi.managed.D53934D4-C8F1-46D6-8FD0-D0DB46AC96E0</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>D2B8F0ED-B819-4B41-B885-9BDE30811B2E</string>
+			<string>D53934D4-C8F1-46D6-8FD0-D0DB46AC96E0</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.40.16</string>
+			<string>192.168.30.46</string>
 			<key>ProxyServerPort</key>
-			<integer>7890</integer>
+			<integer>1080</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
@@ -50,7 +50,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>100D71F5-9645-42CB-8EDF-2B16996480A5</string>
+	<string>1AEDC739-B6AD-4355-822B-0CB58CA2FEF2</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
